@@ -5,6 +5,12 @@ Saved Notes Each Week
 Reviewed Syllabus
 
 ## Week 2:
+
+Review: 
+f = Target Function
+X = Input
+Y = Output
+
 ### I. What is statistical learning? 
 - If there is a relationship between two variables
 - Yi = f(xi) + Ei
@@ -74,3 +80,21 @@ Square all the errors, sum it, and divide by the number of values (literally the
 ### VII. Training vs. Testing MSE's
 The more flexible the method is, the lower the training MSE will be.
 However, the test MSE may in fact be higher for a more flexible method than for a simple approach. 
+
+Today, focus is on the regression component.
+
+#### Bias/Variance Tradeoff
+- Bias is when you make an assumption that a specific model fits (using a linear model). Bias is the error that is introduced by modeling a real-life problem. 
+- Variance is how much you estimate that your model would change if you had a different training data set. 
+- Generally, the more flexible a method, the more variance the model has. 
+
+#### The classification setting
+For a regression problem, we used the MSE to assess the accuracy of the statistical learning method.
+For a classification problem, we use the error rate ie
+
+Error Rate = 1 if not equal; 0 if equal. Perfect error rate is 0. 
+
+#### Bayes Error Rate
+The Bayes error rate refers to the lowest possible error rate that could be achieved if somehow, we knew exactly what the true probability distribution of the data looked like. 
+
+Bayes classification = a priori knowledge 
