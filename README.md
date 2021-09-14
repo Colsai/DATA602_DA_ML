@@ -98,3 +98,19 @@ Error Rate = 1 if not equal; 0 if equal. Perfect error rate is 0.
 The Bayes error rate refers to the lowest possible error rate that could be achieved if somehow, we knew exactly what the true probability distribution of the data looked like. 
 
 Bayes classification = a priori knowledge 
+
+# Week 3
+Interaction; When the effect on Y of increasing X1 depends on another X2. 
+Male salaries go up faster than females as they get promoted. 
+
+Advertising: 
+
+TV and radio adv both increase sales.
+'Spending $1 extra on TV increases average sales by .0191 + .0011 Radio'
+
+## Parallel regression lines
+Lines have same slope but different intercept. 
+
+## Potential fit problems
+Non-linearity, dependence of errors, non-constant variance, outliers, high leverage points (A data point has high leverage if it has "extreme" predictor x values. With a single predictor, an extreme x value is simply one that is particularly high or low), 
+https://www.google.com/search?q=high+leverage+points&rlz=1C1CHBF_enUS909US909&oq=high+leverage+points&aqs=chrome..69i57j0i512l2j0i22i30l7.4215j0j7&sourceid=chrome&ie=UTF-8
