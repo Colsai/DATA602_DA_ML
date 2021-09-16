@@ -113,4 +113,13 @@ Lines have same slope but different intercept.
 
 ## Potential fit problems
 Non-linearity, dependence of errors, non-constant variance, outliers, high leverage points (A data point has high leverage if it has "extreme" predictor x values. With a single predictor, an extreme x value is simply one that is particularly high or low), 
-https://www.google.com/search?q=high+leverage+points&rlz=1C1CHBF_enUS909US909&oq=high+leverage+points&aqs=chrome..69i57j0i512l2j0i22i30l7.4215j0j7&sourceid=chrome&ie=UTF-8
+https://online.stat.psu.edu/stat462/node/170/#:~:text=A%20data%20point%20has%20high,is%20particularly%20high%20or%20low.
+
+KNN regression: 
+Similar to the KNN classifier
+
+To predict Y for a given value of X, consider k closest points to X in training data and take the average of th eresponses
+
+KNN not good in high dimensional situations. 
+
+
