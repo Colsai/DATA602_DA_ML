@@ -10,6 +10,7 @@ Review:
 f = Target Function
 X = Input
 Y = Output
+Z = Test
 
 ### I. What is statistical learning? 
 - If there is a relationship between two variables
