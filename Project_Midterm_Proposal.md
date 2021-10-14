@@ -4,7 +4,8 @@ Please craft an outline/draft of your proposed project. Please feel free to use 
 A few PowerPoint slides would be helpful - so you can present to the class on Tuesday 10/19. 
 However, the format is your choice - a MSWord document that represents a 'paper' outline is OK , as well. Overall it should include:
 ---
-## - Topic/Title - 
+## Chicago Public Schools Revisted: Clustering and Analyzing the components of good, average, and bad schools based on graduation rates.
+
 ### 1. High-level overview - ideally should become the basis of your abstract for the final project paper at the end of the course
 According to Desilver (2017), "The most recent PISA results, from 2015, placed the U.S. an unimpressive 38th out of 71 countries in math and 24th in science". 
 This project postulates that advancements in an understanding of core factors that could be critical to identifying focus areas for funding and improvement of school systems. By identifying the correlative factors and creating a model that can predict high school graduation rate, educators and field experts can improve their fundamental understanding of focus areas within their own school.
