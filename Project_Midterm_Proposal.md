@@ -1,5 +1,5 @@
 # Homework - Week 7 - Draft Outline for Project Proposal #
-## Chicago Public Schools Revisted: Clustering and Analyzing the components of good, average, and bad schools based on graduation rates.
+## Chicago Public Schools Revisted: Clustering + Analyzing the components of good, average, and bad Chicago public schools based on high school graduation rates.
 --
 Please craft an outline/draft of your proposed project. Please feel free to use the format that represents your thoughts and ideas.
 A few PowerPoint slides would be helpful - so you can present to the class on Tuesday 10/19. 
