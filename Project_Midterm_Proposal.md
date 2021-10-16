@@ -13,10 +13,9 @@ This project postulates that advancements in an understanding of core factors th
 ### 2. Motivation - why or what is interesting or fascinating about the project; initial hypothesis.
 While educational performance may be low within the US, expenditure on education per capita is not. According to NCES, in 2017 the United States ranked 4th in the world in terms of per-capita education spending. (https://nces.ed.gov/programs/coe/indicator/cmd). What are reasons for the disparity in expenditure to outcomes?
 
-These datasets are not new to me, and were used as the basis for an EDA project in DATA601. However, as the Chicago Datasets. Since some initial data cleaning was already done on these datasets, my hope is that careful feature selection based on the high schools in Chicago will yield a dataset that has enough entries for meaningful results and model building. 
+One important note is that these datasets are not new to me, and were used as the basis for an EDA project in DATA601. However, as the Chicago Datasets. Since some initial data cleaning was already done on these datasets, my hope is that careful feature selection based on the high schools in Chicago will yield a dataset that has enough entries for meaningful results and model building. I felt that there was a lot to build on from this previous project, which is why I would like to attempt to return to it and incorporate basic Machine Learning models, etc. 
 
 #### These were my early conclusions from a summary analysis of the Chicago Datasets, done in DATA601.
-
 > Conclusions
 The focus of this project was to merge datasets, look through historical records of the schools in terms of performance data, and compare. I used two kinds of T-testing, as well as visualizations.
 
