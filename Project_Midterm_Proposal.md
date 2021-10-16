@@ -16,22 +16,20 @@ While educational performance may be low within the US, expenditure on education
 5. Conclusions
 The focus of this project was to merge datasets, look through historical records of the schools in terms of performance data, and compare. I used two kinds of T-testing, as well as visualizations.
 
-> From an exploratory look, I found...
+> *From an exploratory look, I found...*
 Students at neighborhood schools have better attendance rates than students at Charter Schools.
 Charter Schools appear to perform better for students in terms of graduation rates, although many fewer schools did not report data.
 Charter Schools do not appear to do any better on College Entrance rates, however, with only a statistically-insignificant difference between Neighborhood and Charter Schools.
 Overall, charter schools appear to have some advantages and disadvantages to neighborhood schools.
-Caveats
+> *Caveats*
 This analysis only looked at Educational outcomes for students (high school graduation and college attendance rates). It does not control for possible factors in terms of differences between schools within neighborhood schools and charter school groups, nor control for differences in the populations of students who are attending each school.
-
-Things I learned
-Creating visualizations
-Merging and Joining Data (and types of joins)
-Using T-Tests to check for significance
-Checking for normal distribution with D'Agostino/Pearson Test
-Considerations for each type of T-test to use (parametric/nonpara, variance, etc.)
-Whether or not there was a significant difference between two sets of data.
-
+> *Things I learned*
+- Creating visualizations
+- Merging and Joining Data (and types of joins)
+- Using T-Tests to check for significance
+- Checking for normal distribution with D'Agostino/Pearson Test
+- Considerations for each type of T-test to use (parametric/nonpara, variance, etc.)
+- Whether or not there was a significant difference between two sets of data.
 
 ### 3. Datasets - what is the dataset you need or plan to use. Is it easily available OR are you still looking for data. Are there challenges to getting the data. Any limitations in terms of size that you anticipate - over-sized or under-sized dataset? 
 
