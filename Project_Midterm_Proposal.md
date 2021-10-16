@@ -15,7 +15,7 @@ While educational performance may be low within the US, expenditure on education
 
 ### 3. Datasets - what is the dataset you need or plan to use. Is it easily available OR are you still looking for data. Are there challenges to getting the data. Any limitations in terms of size that you anticipate - over-sized or under-sized dataset? 
 
-'''
+```
 #Import each dataset (Chicago Public Schools)
 start_time = time.time()
 
@@ -27,7 +27,7 @@ cps_1819_df = pd.read_csv("https://data.cityofchicago.org/api/views/dw27-rash/ro
 dur = time.time()- start_time
 
 print(f"{round(dur,3)}s")
-'''
+```
 
 - I want to use the most-recent Chicago Public School Report Cards. I've accessed this data before, but had a much more limited scope (looking at correlations). I want to flesh this data out a bit more. Additionally, Chicago Public Schools have data from 13-18, so shared/like columns can be compared here.
 https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY1/dw27-rash
