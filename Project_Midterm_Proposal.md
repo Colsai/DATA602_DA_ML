@@ -8,10 +8,13 @@ However, the format is your choice - a MSWord document that represents a 'paper'
 
 ### 1. High-level overview - ideally should become the basis of your abstract for the final project paper at the end of the course
 According to Desilver (2017), "The most recent PISA results, from 2015, placed the U.S. an unimpressive 38th out of 71 countries in math and 24th in science". 
+
 This project postulates that advancements in an understanding of core factors that could be critical to identifying focus areas for funding and improvement of school systems. By identifying the correlative factors and creating a model that can predict high school graduation rate, educators and field experts can improve their fundamental understanding of focus areas within their own school.
 
 ### 2. Motivation - why or what is interesting or fascinating about the project; initial hypothesis.
 While educational performance may be low within the US, expenditure on education per capita is not. According to NCES, in 2017 the United States ranked 4th in the world in terms of per-capita education spending. (https://nces.ed.gov/programs/coe/indicator/cmd). What are reasons for the disparity in expenditure to outcomes?
+
+Chicago Public Schools, one of the largest public school systems in the country, is one such school system that struggles with performance. In 2018, nearly 20% of schools were labeled as 'underperforming' (the lowest ranking of 5) in school performance. (https://chicago.chalkbeat.org/2018/10/30/21106019/illinois-report-card-94-chicago-schools-earn-low-performance-rating). 
 
 One important note is that these datasets are not new to me, and were used as the basis for an EDA project in DATA601. However, as the Chicago Datasets. Since some initial data cleaning was already done on these datasets, my hope is that careful feature selection based on the high schools in Chicago will yield a dataset that has enough entries for meaningful results and model building. I felt that there was a lot to build on from this previous project, which is why I would like to attempt to return to it and incorporate basic Machine Learning models, etc. 
 
