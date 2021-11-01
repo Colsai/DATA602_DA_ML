@@ -71,12 +71,10 @@ https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-
 - My expectation will be that some factors, such as high dropout rates, low test scores, and temporary home status may have a large effect in the model for yielding the success of school's attendance rates. However, I also think that there may be some other interesting factors that may be worth looking at for creating the model, as well as identifying standout schools/outliers which may break from the model's predictions (showing they may be doing something novel that other schools are not which leads to better outcomes). 
 
 ### 9. References to sample code available in the public domain like github links, books, articles. Please list potential code references, snippets that you are considering to adapt, retroft or think are good references foryou to work on.
-
-- 
-**EDA for Kaggle Unification Project: https://www.kaggle.com/yanpapadakis/us-edu-eda/notebook**
+- **EDA for Kaggle Unification Project: https://www.kaggle.com/yanpapadakis/us-edu-eda/notebook**
 This eda notebook was done in R, but was helpful to see in terms of choosing EDA visualizations to introduce the product itself. 
 
-**Clustering Analysis and Comparison Graphs https://www.kaggle.com/peterme21/clustering-analysis-and-comparison-graphs**
+- **Clustering Analysis and Comparison Graphs https://www.kaggle.com/peterme21/clustering-analysis-and-comparison-graphs**
 Another eda notebook in Python, this notebook cleans up and organizes data and prepares it for possible clustering - helpful for how to look at data. 
 
 
