@@ -75,7 +75,13 @@ https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-
 This eda notebook was done in R, but was helpful to see in terms of choosing EDA visualizations to introduce the product itself. 
 
 - **Clustering Analysis and Comparison Graphs https://www.kaggle.com/peterme21/clustering-analysis-and-comparison-graphs**
-Another eda notebook in Python, this notebook cleans up and organizes data and prepares it for possible clustering - helpful for how to look at data. 
+Another eda notebook in Python, this notebook cleans up and organizes data and prepares it for possible clustering - helpful for how to visualize educational data.. 
+
+**Improving SAT scores in public high schools https://www.kaggle.com/lgl12b/improving-sat-scores-in-public-highschools**:
+This notebook (in R), provides a good overview of preparing data for modeling. 
+
+**Identifying factors for education success https://www.kaggle.com/mhaupt/identifying-factors-for-education-success**
+Focusing on clustering and identifying factors for educational success, the author provides a detailed data cleaning, and runs multiple linear regression models, as well as identifies colineaerity through eigenvectors. I'd like to borrow some of the way that the author is defining educational success here. 
 
 
 ---
