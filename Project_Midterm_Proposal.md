@@ -71,6 +71,8 @@ https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-
 - My expectation will be that some factors, such as high dropout rates, low test scores, and temporary home status may have a large effect in the model for yielding the success of school's attendance rates. However, I also think that there may be some other interesting factors that may be worth looking at for creating the model, as well as identifying standout schools/outliers which may break from the model's predictions (showing they may be doing something novel that other schools are not which leads to better outcomes). 
 
 ### 9. References to sample code available in the public domain like github links, books, articles. Please list potential code references, snippets that you are considering to adapt, retroft or think are good references foryou to work on.
+
+## Notebooks  
 - **EDA for Kaggle Unification Project: https://www.kaggle.com/yanpapadakis/us-edu-eda/notebook**
 This eda notebook was done in R, but was helpful to see in terms of choosing EDA visualizations to introduce the product itself. 
 
@@ -83,6 +85,21 @@ This notebook (in R), provides a good overview of preparing data for modeling.
 - **Identifying factors for education success https://www.kaggle.com/mhaupt/identifying-factors-for-education-success**
 Focusing on clustering and identifying factors for educational success, the author provides a detailed data cleaning, and runs multiple linear regression models, as well as identifies colineaerity through eigenvectors. I'd like to borrow some of the way that the author is defining educational success here. 
 
+## Research/Videos
+### Predicting Key Educational Outcomes in Academic Trajectories: A Machine-Learning Approach
+https://link.springer.com/article/10.1007/s10734-020-00520-7#Sec1  
+This article stated how Artificial Neural Networks could be run to predictively analyze dropout rates for College students. By using ML models, Musso (et. al)
+looked to analyze predictors for GPA, academic retention, and degree completion. Ultimately, the models were successful at classifications of students in these outputs, finding that motivation, isolation, processing of information, and attention were significant features for predicting high or low GPA scores.
+   
+Additionally, it found that selecting main ideas, information processing and anxiety management were the strongest predictors for degree completion. The study shows that "it is possible to identify the predictors of positive educational outcomes, as well as those that are related to failure to achieve these outcomes, with the high level of precision provided by the machine-learning approach in this research." This suggests attempting to use an ANN model may be successful in predictive analysis of educational data as well.
+
+### "The Value of Machine-Driven Initiatives for K-12 Schools"  
+http://edtechmagazine.com/k12/k12/higher/k12/k12/article/2019/12/value-machine-driven-initiatives-k-12-schools-perfcon
+- Purpose-based, Bonderud states the possibilities of AI and leveraging datasets to understand student performance. By doing so, learner patterns can be better understood; additionally, intelligent algorithms can assist IT teams serve their schools better by use of detection and warning systems.
+
+### "K–12 Educators Emphasize Personalized Learning for Class of 2030"
+https://edtechmagazine.com/k12/media/video/k-12-educators-emphasize-personalized-learning-class-2030  
+- This video describes the possibility of learning analytics leading to better-individualized student instruction through differentiation, course adjustments, and opportunity creation through AI. These educators suggest that AI can help create valuefor younger learners.
 
 ---
 *Any other thoughts - e.g. impediments, challenges, concerns , OR benefits etc. 
